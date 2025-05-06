@@ -32,6 +32,8 @@ class MyTest(TestCase):
         print('test_c')
 
 
+
+
 test = MyTest('test_a')
 test.run()
 
